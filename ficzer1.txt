@@ -5,3 +5,4 @@ czange1
 czange2
 czange3
 >>>>>>> brancz2
+zmiana widoczna
